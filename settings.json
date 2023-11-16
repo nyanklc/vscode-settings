@@ -1,0 +1,45 @@
+{
+    "workbench.startupEditor": "none",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.mouseWheelZoom": true,
+    // "vim.useSystemClipboard": true,
+    // "vim.handleKeys": {
+    //     "<C-p>": false
+    // },
+    "security.workspace.trust.untrustedFiles": "open",
+    "C_Cpp.configurationWarnings": "disabled",
+    "git.confirmSync": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.cursorStyle": "line-thin",
+    "git.openRepositoryInParentFolders": "never",
+    "editor.renderWhitespace": "trailing",
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "astyle.cmd_options": [
+        "--indent=spaces=2",
+    ],
+    "C_Cpp.default.cppStandard": "c++20",
+
+    "formatFiles.excludedFolders": [
+        "node_modules",
+        ".vscode",
+        ".git",
+        "dist",
+        ".chrome",
+        "build/",
+        ".cache/"
+    ],
+    "workbench.productIconTheme": "macos-modern",
+    "editor.fontSize": 12,
+    "editor.fontFamily": "SF Mono, Monaco",
+    "editor.tabSize": 2,
+    "editor.fontWeight": "normal",
+    "window.titleBarStyle": "native",
+    "window.zoomLevel": -0.5,
+    "workbench.editor.showIcons": false,
+    "problems.decorations.enabled": false,
+    "workbench.colorTheme": "MacOS Modern Light - Xcode Default",
+}
